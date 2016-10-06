@@ -5,4 +5,8 @@ Covers the basics, click the videos on the sidebar in YouTube for more specific 
 Basic Markdown beautification.
 ##Basic Java Tutorials: [Oracle Java Tutorials](https://docs.oracle.com/javase/tutorial/)
 Pretty much all you need if you have a program idea and don't know where/how to start.
-
+##Must Have Software
+###[Git(Download)](https://git-scm.com/downloads)
+###[Java Class Decompiler(Online)](http://www.javadecompilers.com/)
+###[Notepad++(Download)](https://notepad-plus-plus.org/download/all-versions.html)
+###[Cheat Engine(Download)](http://www.cheatengine.org/index.php)
